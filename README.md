@@ -1,2 +1,1 @@
-# Coursera
-gueessing game
+guessing game
